@@ -36,7 +36,7 @@
     "commander": "^9.4.0",
     "dayjs": "^1.11.5",
     "enquirer": "^2.3.6",
-    "googleapis": "^105.0.0",
+    "googleapis": "^172.0.0",
     "open": "^8.4.0"
   }
 }
